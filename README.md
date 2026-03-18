@@ -11,7 +11,7 @@ Open-source for individuals/small businesses (annual revenue <$250k) with attrib
 
 2. 디지털 자산 보호 (Digital Asset Protection)
 
-* 본 설계와 데이터는 Zenodo 및 Wayback Machine에 선행기술로 영구 박제되어 법적 보호를 받습니다.
+* 본 설계와 데이터는 Zenodo에 선행기술로 영구 박제되어 법적 보호를 받습니다.
 This design and data are permanently archived in Zenodo and Wayback Machine as Prior Art, protected under copyright laws.
 
 3. 현대 수자원의 3대 문제 (Triple Challenges of Modern Water)
