@@ -1,4 +1,4 @@
-
+https://doi.org/10.5281/zenodo.19100049
 
 🛡️ [저장소 1: Open-Water-Survival] 최종본
 주제: 수자원 오염의 실체 및 연수 지역 생존 필터
